@@ -7,10 +7,7 @@ namespace SimpleApi.Controllers;
 [Route("api/[controller]")]
 public class ProductsController : ControllerBase
 {
-    [HttpGet]
-    public IActionResult GetProducts()
-    {
-        var products = new List<Product>
+    private static List<Product> products = new List<Product>
         {
             new Product
             {
@@ -25,6 +22,17 @@ public class ProductsController : ControllerBase
                 Price=1500
             }
         };
+
+    [HttpGet]
+    public IActionResult GetProducts()
+    {
+        return Ok(products);
+    }
+
+    [HttpPost]
+    public IActionResult AddProducts(Product product)
+    {
+        products.Add(product);
         return Ok(products);
     }
 }

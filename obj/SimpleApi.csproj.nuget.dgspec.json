@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C# learning\\DotNetApplication\\SimpleApi\\SimpleApi.csproj": {}
+    "/Users/shehzabahammad/Desktop/Projects/Learn/Dotnet/DotNetApplication/SimpleApi.csproj": {}
   },
   "projects": {
-    "D:\\C# learning\\DotNetApplication\\SimpleApi\\SimpleApi.csproj": {
+    "/Users/shehzabahammad/Desktop/Projects/Learn/Dotnet/DotNetApplication/SimpleApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# learning\\DotNetApplication\\SimpleApi\\SimpleApi.csproj",
+        "projectUniqueName": "/Users/shehzabahammad/Desktop/Projects/Learn/Dotnet/DotNetApplication/SimpleApi.csproj",
         "projectName": "SimpleApi",
-        "projectPath": "D:\\C# learning\\DotNetApplication\\SimpleApi\\SimpleApi.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\C# learning\\DotNetApplication\\SimpleApi\\obj\\",
+        "projectPath": "/Users/shehzabahammad/Desktop/Projects/Learn/Dotnet/DotNetApplication/SimpleApi.csproj",
+        "packagesPath": "/Users/shehzabahammad/.nuget/packages/",
+        "outputPath": "/Users/shehzabahammad/Desktop/Projects/Learn/Dotnet/DotNetApplication/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/shehzabahammad/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -24,6 +24,7 @@
         },
         "frameworks": {
           "net8.0": {
+            "framework": "net8.0",
             "targetAlias": "net8.0",
             "projectReferences": {}
           }
@@ -37,10 +38,12 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "10.0.400"
       },
       "frameworks": {
         "net8.0": {
+          "framework": "net8.0",
           "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.AspNetCore.OpenApi": {
@@ -71,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.424/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

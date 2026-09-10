@@ -1,33 +1,70 @@
-D:\C# learning\DotNetApplication\SimpleApi\obj\Debug\net8.0\SimpleApi.csproj.AssemblyReference.cache
-D:\C# learning\DotNetApplication\SimpleApi\obj\Debug\net8.0\SimpleApi.GeneratedMSBuildEditorConfig.editorconfig
-D:\C# learning\DotNetApplication\SimpleApi\obj\Debug\net8.0\SimpleApi.AssemblyInfoInputs.cache
-D:\C# learning\DotNetApplication\SimpleApi\obj\Debug\net8.0\SimpleApi.AssemblyInfo.cs
-D:\C# learning\DotNetApplication\SimpleApi\obj\Debug\net8.0\SimpleApi.csproj.CoreCompileInputs.cache
-D:\C# learning\DotNetApplication\SimpleApi\obj\Debug\net8.0\SimpleApi.MvcApplicationPartsAssemblyInfo.cs
-D:\C# learning\DotNetApplication\SimpleApi\obj\Debug\net8.0\SimpleApi.MvcApplicationPartsAssemblyInfo.cache
-D:\C# learning\DotNetApplication\SimpleApi\bin\Debug\net8.0\appsettings.Development.json
-D:\C# learning\DotNetApplication\SimpleApi\bin\Debug\net8.0\appsettings.json
-D:\C# learning\DotNetApplication\SimpleApi\bin\Debug\net8.0\SimpleApi.exe
-D:\C# learning\DotNetApplication\SimpleApi\bin\Debug\net8.0\SimpleApi.deps.json
-D:\C# learning\DotNetApplication\SimpleApi\bin\Debug\net8.0\SimpleApi.runtimeconfig.json
-D:\C# learning\DotNetApplication\SimpleApi\bin\Debug\net8.0\SimpleApi.dll
-D:\C# learning\DotNetApplication\SimpleApi\bin\Debug\net8.0\SimpleApi.pdb
-D:\C# learning\DotNetApplication\SimpleApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
-D:\C# learning\DotNetApplication\SimpleApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
-D:\C# learning\DotNetApplication\SimpleApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
-D:\C# learning\DotNetApplication\SimpleApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-D:\C# learning\DotNetApplication\SimpleApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\C# learning\DotNetApplication\SimpleApi\obj\Debug\net8.0\staticwebassets.build.json
-D:\C# learning\DotNetApplication\SimpleApi\obj\Debug\net8.0\staticwebassets.development.json
-D:\C# learning\DotNetApplication\SimpleApi\obj\Debug\net8.0\staticwebassets\msbuild.SimpleApi.Microsoft.AspNetCore.StaticWebAssets.props
-D:\C# learning\DotNetApplication\SimpleApi\obj\Debug\net8.0\staticwebassets\msbuild.build.SimpleApi.props
-D:\C# learning\DotNetApplication\SimpleApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SimpleApi.props
-D:\C# learning\DotNetApplication\SimpleApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SimpleApi.props
-D:\C# learning\DotNetApplication\SimpleApi\obj\Debug\net8.0\staticwebassets.pack.json
-D:\C# learning\DotNetApplication\SimpleApi\obj\Debug\net8.0\scopedcss\bundle\SimpleApi.styles.css
-D:\C# learning\DotNetApplication\SimpleApi\obj\Debug\net8.0\SimpleApi.csproj.Up2Date
-D:\C# learning\DotNetApplication\SimpleApi\obj\Debug\net8.0\SimpleApi.dll
-D:\C# learning\DotNetApplication\SimpleApi\obj\Debug\net8.0\refint\SimpleApi.dll
-D:\C# learning\DotNetApplication\SimpleApi\obj\Debug\net8.0\SimpleApi.pdb
-D:\C# learning\DotNetApplication\SimpleApi\obj\Debug\net8.0\SimpleApi.genruntimeconfig.cache
-D:\C# learning\DotNetApplication\SimpleApi\obj\Debug\net8.0\ref\SimpleApi.dll
+D:/C# learning/DotNetApplication/SimpleApi/obj/Debug/net8.0/SimpleApi.csproj.AssemblyReference.cache
+D:/C# learning/DotNetApplication/SimpleApi/obj/Debug/net8.0/SimpleApi.GeneratedMSBuildEditorConfig.editorconfig
+D:/C# learning/DotNetApplication/SimpleApi/obj/Debug/net8.0/SimpleApi.AssemblyInfoInputs.cache
+D:/C# learning/DotNetApplication/SimpleApi/obj/Debug/net8.0/SimpleApi.AssemblyInfo.cs
+D:/C# learning/DotNetApplication/SimpleApi/obj/Debug/net8.0/SimpleApi.csproj.CoreCompileInputs.cache
+D:/C# learning/DotNetApplication/SimpleApi/obj/Debug/net8.0/SimpleApi.MvcApplicationPartsAssemblyInfo.cs
+D:/C# learning/DotNetApplication/SimpleApi/obj/Debug/net8.0/SimpleApi.MvcApplicationPartsAssemblyInfo.cache
+D:/C# learning/DotNetApplication/SimpleApi/bin/Debug/net8.0/appsettings.Development.json
+D:/C# learning/DotNetApplication/SimpleApi/bin/Debug/net8.0/appsettings.json
+D:/C# learning/DotNetApplication/SimpleApi/bin/Debug/net8.0/SimpleApi.exe
+D:/C# learning/DotNetApplication/SimpleApi/bin/Debug/net8.0/SimpleApi.deps.json
+D:/C# learning/DotNetApplication/SimpleApi/bin/Debug/net8.0/SimpleApi.runtimeconfig.json
+D:/C# learning/DotNetApplication/SimpleApi/bin/Debug/net8.0/SimpleApi.dll
+D:/C# learning/DotNetApplication/SimpleApi/bin/Debug/net8.0/SimpleApi.pdb
+D:/C# learning/DotNetApplication/SimpleApi/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+D:/C# learning/DotNetApplication/SimpleApi/bin/Debug/net8.0/Microsoft.OpenApi.dll
+D:/C# learning/DotNetApplication/SimpleApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+D:/C# learning/DotNetApplication/SimpleApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+D:/C# learning/DotNetApplication/SimpleApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+D:/C# learning/DotNetApplication/SimpleApi/obj/Debug/net8.0/staticwebassets.build.json
+D:/C# learning/DotNetApplication/SimpleApi/obj/Debug/net8.0/staticwebassets.development.json
+D:/C# learning/DotNetApplication/SimpleApi/obj/Debug/net8.0/staticwebassets/msbuild.SimpleApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:/C# learning/DotNetApplication/SimpleApi/obj/Debug/net8.0/staticwebassets/msbuild.build.SimpleApi.props
+D:/C# learning/DotNetApplication/SimpleApi/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.SimpleApi.props
+D:/C# learning/DotNetApplication/SimpleApi/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.SimpleApi.props
+D:/C# learning/DotNetApplication/SimpleApi/obj/Debug/net8.0/staticwebassets.pack.json
+D:/C# learning/DotNetApplication/SimpleApi/obj/Debug/net8.0/scopedcss/bundle/SimpleApi.styles.css
+D:/C# learning/DotNetApplication/SimpleApi/obj/Debug/net8.0/SimpleApi.csproj.Up2Date
+D:/C# learning/DotNetApplication/SimpleApi/obj/Debug/net8.0/SimpleApi.dll
+D:/C# learning/DotNetApplication/SimpleApi/obj/Debug/net8.0/refint/SimpleApi.dll
+D:/C# learning/DotNetApplication/SimpleApi/obj/Debug/net8.0/SimpleApi.pdb
+D:/C# learning/DotNetApplication/SimpleApi/obj/Debug/net8.0/SimpleApi.genruntimeconfig.cache
+D:/C# learning/DotNetApplication/SimpleApi/obj/Debug/net8.0/ref/SimpleApi.dll
+/Users/shehzabahammad/Desktop/Projects/Learn/Dotnet/DotNetApplication/obj/Debug/net8.0/SimpleApi.csproj.AssemblyReference.cache
+/Users/shehzabahammad/Desktop/Projects/Learn/Dotnet/DotNetApplication/obj/Debug/net8.0/rpswa.dswa.cache.json
+/Users/shehzabahammad/Desktop/Projects/Learn/Dotnet/DotNetApplication/obj/Debug/net8.0/SimpleApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shehzabahammad/Desktop/Projects/Learn/Dotnet/DotNetApplication/obj/Debug/net8.0/SimpleApi.AssemblyInfoInputs.cache
+/Users/shehzabahammad/Desktop/Projects/Learn/Dotnet/DotNetApplication/obj/Debug/net8.0/SimpleApi.AssemblyInfo.cs
+/Users/shehzabahammad/Desktop/Projects/Learn/Dotnet/DotNetApplication/obj/Debug/net8.0/SimpleApi.csproj.CoreCompileInputs.cache
+/Users/shehzabahammad/Desktop/Projects/Learn/Dotnet/DotNetApplication/obj/Debug/net8.0/SimpleApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/shehzabahammad/Desktop/Projects/Learn/Dotnet/DotNetApplication/obj/Debug/net8.0/SimpleApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/shehzabahammad/Desktop/Projects/Learn/Dotnet/DotNetApplication/obj/Debug/net8.0/SimpleApi.sourcelink.json
+/Users/shehzabahammad/Desktop/Projects/Learn/Dotnet/DotNetApplication/obj/Debug/net8.0/SimpleApi.dll
+/Users/shehzabahammad/Desktop/Projects/Learn/Dotnet/DotNetApplication/obj/Debug/net8.0/refint/SimpleApi.dll
+/Users/shehzabahammad/Desktop/Projects/Learn/Dotnet/DotNetApplication/obj/Debug/net8.0/SimpleApi.pdb
+/Users/shehzabahammad/Desktop/Projects/Learn/Dotnet/DotNetApplication/bin/Debug/net8.0/appsettings.Development.json
+/Users/shehzabahammad/Desktop/Projects/Learn/Dotnet/DotNetApplication/bin/Debug/net8.0/appsettings.json
+/Users/shehzabahammad/Desktop/Projects/Learn/Dotnet/DotNetApplication/bin/Debug/net8.0/SimpleApi.staticwebassets.endpoints.json
+/Users/shehzabahammad/Desktop/Projects/Learn/Dotnet/DotNetApplication/bin/Debug/net8.0/SimpleApi
+/Users/shehzabahammad/Desktop/Projects/Learn/Dotnet/DotNetApplication/bin/Debug/net8.0/SimpleApi.deps.json
+/Users/shehzabahammad/Desktop/Projects/Learn/Dotnet/DotNetApplication/bin/Debug/net8.0/SimpleApi.runtimeconfig.json
+/Users/shehzabahammad/Desktop/Projects/Learn/Dotnet/DotNetApplication/bin/Debug/net8.0/SimpleApi.dll
+/Users/shehzabahammad/Desktop/Projects/Learn/Dotnet/DotNetApplication/bin/Debug/net8.0/SimpleApi.pdb
+/Users/shehzabahammad/Desktop/Projects/Learn/Dotnet/DotNetApplication/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/shehzabahammad/Desktop/Projects/Learn/Dotnet/DotNetApplication/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/shehzabahammad/Desktop/Projects/Learn/Dotnet/DotNetApplication/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/shehzabahammad/Desktop/Projects/Learn/Dotnet/DotNetApplication/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/shehzabahammad/Desktop/Projects/Learn/Dotnet/DotNetApplication/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/shehzabahammad/Desktop/Projects/Learn/Dotnet/DotNetApplication/obj/Debug/net8.0/rjimswa.dswa.cache.json
+/Users/shehzabahammad/Desktop/Projects/Learn/Dotnet/DotNetApplication/obj/Debug/net8.0/rjsmrazor.dswa.cache.json
+/Users/shehzabahammad/Desktop/Projects/Learn/Dotnet/DotNetApplication/obj/Debug/net8.0/rjsmcshtml.dswa.cache.json
+/Users/shehzabahammad/Desktop/Projects/Learn/Dotnet/DotNetApplication/obj/Debug/net8.0/scopedcss/bundle/SimpleApi.styles.css
+/Users/shehzabahammad/Desktop/Projects/Learn/Dotnet/DotNetApplication/obj/Debug/net8.0/staticwebassets.build.json
+/Users/shehzabahammad/Desktop/Projects/Learn/Dotnet/DotNetApplication/obj/Debug/net8.0/staticwebassets.build.json.cache
+/Users/shehzabahammad/Desktop/Projects/Learn/Dotnet/DotNetApplication/obj/Debug/net8.0/staticwebassets.development.json
+/Users/shehzabahammad/Desktop/Projects/Learn/Dotnet/DotNetApplication/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+/Users/shehzabahammad/Desktop/Projects/Learn/Dotnet/DotNetApplication/obj/Debug/net8.0/swae.build.ex.cache
+/Users/shehzabahammad/Desktop/Projects/Learn/Dotnet/DotNetApplication/obj/Debug/net8.0/SimpleApi.csproj.Up2Date
+/Users/shehzabahammad/Desktop/Projects/Learn/Dotnet/DotNetApplication/obj/Debug/net8.0/SimpleApi.genruntimeconfig.cache
+/Users/shehzabahammad/Desktop/Projects/Learn/Dotnet/DotNetApplication/obj/Debug/net8.0/ref/SimpleApi.dll
